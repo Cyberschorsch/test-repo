@@ -1,3 +1,6 @@
+Add some new lines
+for testing purposes
+
 # Composer template for Drupal Thunder projects based on drupal-composer/drupal-project
 
 This project template should provide a kickstart for managing your site
